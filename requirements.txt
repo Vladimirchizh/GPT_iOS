@@ -1,3 +1,4 @@
 transformers==3.5.0
 torch==1.4.0
 gdown==3.12.1
+coremltools==5.0b2
